@@ -25,6 +25,14 @@ You can also open an APK file in Windows, macOS, or any other desktop operating 
 
 please check https://www.bluestacks.com/download.html
 
+## slide shot
+![](https://imgur.com/RUyktwX)
+![](https://imgur.com/iThymWG)
+![](https://imgur.com/jiiHm3p)
+![](https://imgur.com/kXw8T5P)
+![](https://imgur.com/DBXftUd)
+
+
 ## Versioning
 
 v1
@@ -42,4 +50,3 @@ This app will also contain the one to one chat app firebase. So that two users c
 ## Authors
 
 * **Ivan Su** 
-
