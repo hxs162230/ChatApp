@@ -1,4 +1,4 @@
-# Project Title
+# Title
 
 Android chating app with both group chat and 1-1 chat
 
