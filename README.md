@@ -1,15 +1,3 @@
-
-Android Chat App just like WhatsApp using android studio with firebase database.
-This app will have the following features/functionalities:
-1. Private Chat (one to one chat)
-2. Group Chat
-and many more new cool features and functionalities.
-
-So in this app we will develop group chat app android studio (android group chat application using firebase). In this android studio group chat one user can create a group and he can add friends to that group and also other user can request to add them in that group. user can leave that group anytime they want.
-
-This app will also contain the one to one chat app firebase. So that two users can chat with each other in this app.
-
-
 # Project Title
 
 Android chating app with both group chat and 1-1 chat
