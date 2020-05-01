@@ -3,6 +3,22 @@ Feature
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Android Chat App just like WhatsApp using android studio with firebase database.
 This app will have the following features/functionalities:
 1. Private Chat (one to one chat)
@@ -15,6 +31,19 @@ This app will also contain the one to one chat app firebase. That is we will als
 
 
 How to Use
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
