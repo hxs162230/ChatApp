@@ -27,7 +27,7 @@ and many more new cool features and functionalities.
 
 So in this app we will develop group chat app android studio (android group chat application using firebase). In this android studio group chat one user can create a group and he can add friends to that group and also other user can request to add them in that group. user can leave that group anytime they want.
 
-This app will also contain the one to one chat app firebase. That is we will also develop the feature of private firebase chat app using android studio. So that two users can chat with each other in this app.
+This app will also contain the one to one chat app firebase. So that two users can chat with each other in this app.
 
 
 How to Use
