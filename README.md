@@ -26,7 +26,7 @@ You can also open an APK file in Windows, macOS, or any other desktop operating 
 please check https://www.bluestacks.com/download.html
 
 ## slide shot
-![](https://imgur.com/RUyktwX)
+![](https://imgur.com/RUyktwX.jpg)
 ![](https://imgur.com/iThymWG)
 ![](https://imgur.com/jiiHm3p)
 ![](https://imgur.com/kXw8T5P)
