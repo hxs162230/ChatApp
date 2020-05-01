@@ -1,4 +1,8 @@
 Feature
+
+
+
+
 Android Chat App just like WhatsApp using android studio with firebase database.
 This app will have the following features/functionalities:
 1. Private Chat (one to one chat)
@@ -11,6 +15,10 @@ This app will also contain the one to one chat app firebase. That is we will als
 
 
 How to Use
+
+
+
+
 The softwares which we use to run android applications on windows or on any other platforms are known as Emulator.
 
 Although Bluestack or other similar applications are simple to use to run android applications but it require sufficient RAM to run smoothly.
